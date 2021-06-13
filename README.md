@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Ambulation Classification based on Lower Limb Biomechanics
 
-You can use the [editor on GitHub](https://github.com/anupamgolder/biomechanics.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The [dataset](http://www.epic.gatech.edu/opensource-biomechanics-camargo-et-al/) has been acquired by EPIC Lab at Georgia Tech. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this project, we will classify 6 ambulation modes (walking, standing, stair - ascent, stair - descent, ramp - ascent, ramp - descent) based on biomechanics data captured from lower limb using EMG, Goniometer, IMU etc. from able-bodied participants.
 
-### Markdown
+<img src="https://user-images.githubusercontent.com/51376814/121802345-c82b8780-cc09-11eb-8c00-99bc77425916.png" alt="hi" class="inline"/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### References
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anupamgolder/biomechanics.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Camargo, J., Ramanathan, A., Flanagan, W., & Young, A. (2021). A comprehensive, open-source dataset of lower limb biomechanics in multiple conditions of stairs, ramps, and level-ground ambulation and transitions. Journal of Biomechanics, 119, 110320.
