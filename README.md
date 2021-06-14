@@ -1,4 +1,4 @@
-## Locomotion Mode Classification based on Wearable Sensosr data from Lower Limb Biomechanics 
+## Locomotion Mode Classification based on Wearable Sensor data from Lower Limb Biomechanics 
 
 ### Introduction
 Characterization of human movement and understanding of corresponding muscle coordination over various locmotion modes and terrain conditions is crucial for determining human movement strategies in environments more prevalent to community ambulation. Biomechanical data captured during locomotion, such as, Electromyography (EMG) signlas, can be used to anticipate transitions from one mode to another. Moreover, combination of multiple sensor data has the possibility to assist in data-driven model development for locomotion intent recognition using Machine Learning (ML) to greatly accelerate such tasks. 
